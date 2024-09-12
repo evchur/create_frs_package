@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: log_tester
+Version: 0.0.1
+Summary: simple example for testing user logger
+Home-page: 
+Author-email: evgenii.churiulin@kit.edu
+License: LICENSE
+Classifier: License :: OSI Approved :: GNU License
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: bson>=0.5.10
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+Requires-Dist: twine>=4.0.2; extra == "dev"
+
+My ssimple test example for loggin, creating project and test enviroments. I can use this example for the future bigger projects in UDAG.

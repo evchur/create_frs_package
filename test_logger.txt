@@ -1,0 +1,6 @@
+2024-09-11 11:42:21,626 - INFO   - I printed and scanned my data
+2024-09-11 11:42:21,626 - INFO   - Initializing Printer
+2024-09-11 11:42:21,626 - INFO   - Initializing Scaner
+2024-09-11 11:42:21,626 - INFO   - Text was printed
+2024-09-11 11:42:21,626 - INFO   - Text was scanned
+2024-09-11 11:52:13,372 - DEBUG  - handle_close[61aab974701411ef90fbe446b043cf61]({'header': {'msg_id': 'e063f389-04aedd3846a370e24ea1179a_4814_187', 'msg_type': 'comm_close', 'username': 'tv4764', 'session': 'e063f389-04aedd3846a370e24ea1179a', 'date': datetime.datetime(2024, 9, 11, 9, 52, 13, 368169, tzinfo=tzutc()), 'version': '5.3'}, 'msg_id': 'e063f389-04aedd3846a370e24ea1179a_4814_187', 'msg_type': 'comm_close', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '61aab974701411ef90fbe446b043cf61', 'data': {}}, 'buffers': []})

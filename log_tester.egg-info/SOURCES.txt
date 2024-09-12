@@ -1,0 +1,11 @@
+LICENSE
+setup.py
+log_tester/__init__.py
+log_tester/test_logger.py
+log_tester/test_printer.py
+log_tester/test_scaner.py
+log_tester.egg-info/PKG-INFO
+log_tester.egg-info/SOURCES.txt
+log_tester.egg-info/dependency_links.txt
+log_tester.egg-info/requires.txt
+log_tester.egg-info/top_level.txt
